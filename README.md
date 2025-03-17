@@ -21,7 +21,7 @@
     <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img align="center" alt="Firebird" src="https://img.shields.io/badge/Firebird-E31B23?style=for-the-badge&logoColor=white&labelColor=black&label=Firebird" /><br/><br/>
+    <img align="center" alt="Firebird" src="https://img.shields.io/badge/Firebird-E31B23?style=for-the-badge&logoColor=white&labelColor=black" /><br/><br/>
     <img align="center" alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     <img align="center" alt="Memcached" src="https://img.shields.io/badge/Memcached-113B5C?style=for-the-badge&logo=memcached&logoColor=white" /><br/><br/>
     <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
