@@ -47,21 +47,22 @@
 
 ### 🚀 Sobre mim
 
-- 🖥️ Programador (PHP, Laravel, Symfony, CodeIgniter / Javascript, Vuejs, Bootstrap)
-- 📜 Devops (AWS, Docker, Git Actions)
-- 📌 Liderança (Tech Lead)
+- 🏛️ **Arquitetura de Soluções** (Design de Sistemas, Microsserviços, APIs RESTful, Event-Driven, Integração de Sistemas, Escalabilidade)
+- 🖥️ **Engenharia de Software** (PHP, Laravel, Symfony, CodeIgniter / Javascript, Vue.js, Bootstrap)
+- 📜 **DevOps & Cloud** (AWS, Docker, Git Actions, CI/CD)
+- 📌 **Liderança Técnica** (Tech Lead, Gestão de Times Ágeis, Governança Técnica)
 
-Sou um profissional com ampla experiência em tecnologia, atuando como Programador, Tech Lead e Head of Product Management em empresas do setor no Brasil. Minha trajetória combina liderança estratégica com forte vivência em codificação, garantindo que as soluções desenvolvidas sejam tanto inovadoras quanto tecnicamente robustas.
+Sou um profissional com ampla experiência em tecnologia, atuando como Arquiteto de Soluções, Tech Lead e Head of Product Management em empresas do setor no Brasil. Minha trajetória combina visão arquitetural, liderança estratégica e forte vivência em engenharia de software, garantindo que as soluções desenvolvidas sejam não apenas inovadoras, mas tecnicamente robustas e preparadas para escalar.
 
-Atuo na liderança técnica de equipes, auxiliando na definição de arquiteturas escaláveis, boas práticas de desenvolvimento e revisão de código para garantir qualidade e evolução contínua. Minha abordagem é prática e colaborativa, participando ativamente da implementação de soluções, resolução de desafios técnicos e integração entre times de desenvolvimento e produto.
+Atuo no desenho e evolução de arquiteturas complexas, definindo padrões de integração, microsserviços, arquiteturas orientadas a eventos e estratégias *cloud-native*. Auxilio na definição de arquiteturas escaláveis, aplicação de boas práticas de desenvolvimento (Clean Architecture, SOLID, Design Patterns) e revisão técnica para garantir qualidade, resiliência e evolução contínua. Minha abordagem é prática e colaborativa, conectando a estratégia de negócios à implementação técnica, resolvendo desafios de alta complexidade e promovendo a sinergia entre times de desenvolvimento e produto.
 
-Tenho sólida experiência em arquitetura de soluções, com foco em integrações entre sistemas. Minha stack técnica inclui PHP, JavaScript (ExtJS e VueJS) e banco de dados Postgres, MySQL, Oracle, além de um domínio avançado de ferramentas essenciais como Git, Docker e GitLab CI/CD. Mesmo em cargos de gestão, sempre mantive contato direto com o código, liderando pelo exemplo e garantindo entregas alinhadas às melhores práticas de engenharia de software.
+Tenho sólida experiência em integração de sistemas corporativos (E-commerce, CRM, ERPs e PDV), modelagem de APIs e governança de dados. Minha stack técnica abrange PHP, JavaScript (Vue.js e ExtJS) e bancos de dados relacionais e NoSQL (PostgreSQL, MySQL, Oracle, Redis), além de domínio avançado em ferramentas de DevOps como Docker, AWS e GitLab CI/CD. Mesmo em papéis de liderança e arquitetura, mantenho forte proximidade com o código, conduzindo provas de conceito (PoCs), revisando arquiteturas e liderando pelo exemplo.
 
-Minha atuação também envolve gestão de times ágeis, aplicando metodologias como Scrum e Kanban para otimizar fluxos de trabalho e garantir entregas eficientes. Além disso, sou engajado em conduzir reuniões técnicas, revisar arquitetura de sistemas e participar de comitês de mudança, sempre com foco na inovação e melhoria contínua.
+Minha atuação também envolve gestão técnica de times ágeis, aplicando metodologias como Scrum e Kanban para otimizar fluxos de entrega e garantir previsibilidade. Sou engajado na condução de comitês de arquitetura, documentação de decisões técnicas (ADRs) e avaliação de *trade-offs*, sempre com foco na inovação, segurança e redução de débito técnico.
 
-Entre os projetos que liderei, destaco a manutenção e evolução dos sistemas Compras Food e Compras Agora, além da gestão da equipe de produto na Huggy, onde contribui para o crescimento da solução e desenvolvimento do time.
+Entre os projetos de destaque que liderei, estão o mapeamento e evolução de ecossistemas de e-commerce e atendimento omnicanal (como as soluções integradas na Farmarcas), a manutenção e evolução de plataformas B2B (Compras Food e Compras Agora), e a gestão da equipe de produto na Huggy, onde contribuí para o crescimento escalável da solução e o desenvolvimento do time.
 
-Com uma visão que une estratégia, engenharia de software e cultura ágil, meu objetivo é impulsionar projetos de tecnologia com alto impacto, garantindo soluções escaláveis, eficientes e alinhadas às necessidades do negócio.
+Com uma visão que une estratégia de negócios, arquitetura de software e cultura ágil, meu objetivo é impulsionar projetos de tecnologia com alto impacto, desenhando soluções resilientes, eficientes e perfeitamente alinhadas às necessidades corporativas.
 
 --- 
 
